@@ -17,6 +17,16 @@ const styles = StyleSheet.create({
     },
     description:{
         margin: 16
+    },
+    cardHeader: {
+        margin: 4,
+        flexDirection:'row'
+    },
+    userName:{
+        margin: 8,
+        fontSize: 18,
+        fontWeight: "600"
+
     }
 
 
