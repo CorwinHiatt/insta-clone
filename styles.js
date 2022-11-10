@@ -11,8 +11,9 @@ const styles = StyleSheet.create({
     },
     images: {
         width:'100%' ,
-        aspectRatio: 1,
-        flex: 1,
+        height: 320
+        // aspectRatio: 1,
+        // flex: 1,
       
     },
     description:{
